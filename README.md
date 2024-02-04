@@ -51,3 +51,11 @@
 ## UCalgary   geodesy
 
 [测绘工程 - 理学硕士 - 论文 |研究生院 |卡尔加里大学 (ucalgary.ca)](https://grad.ucalgary.ca/future-students/explore-programs/geomatics-engineering-msc-thesis)
+
+## 阿尔托大学
+
+[地理信息学，理学硕士（技术） |阿尔托大学 (aalto.fi)](https://www.aalto.fi/en/study-options/masters-programme-in-geoinformatics)
+
+## 港理工
+
+[LSGI (polyu.edu.hk)](https://www.polyu.edu.hk/lsgi/people/academic-staff/)
